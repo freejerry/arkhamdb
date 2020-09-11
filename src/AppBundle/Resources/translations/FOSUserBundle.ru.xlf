@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="ko" datatype="plaintext" original="file.ext">
+  <file source-language="en" target-language="ru" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
       <trans-unit id="67_RjP." resname="Your account is not awaiting confirmation">
         <source>Your account is not awaiting confirmation</source>
-        <target>Your account is not awaiting confirmation</target>
+        <target>Ваш аккаунт не ожидает подтверждения</target>
       </trans-unit>
       <trans-unit id="iqREVDn" resname="If you forgot your password">
         <source>If you forgot your password</source>
-        <target>If you forgot your password</target>
+        <target>Если вы забыли свой пароль</target>
       </trans-unit>
       <trans-unit id="nh5NYWV" resname="click here">
         <source>click here</source>
-        <target>click here</target>
+        <target>нажмите здесь</target>
       </trans-unit>
       <trans-unit id="olmUwYV" resname="otherwise log in">
         <source>otherwise log in</source>
-        <target>otherwise log in</target>
+        <target>в противном случае войдите (log in)</target>
       </trans-unit>
     </body>
   </file>
